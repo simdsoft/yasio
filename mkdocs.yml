@@ -3,7 +3,7 @@ site_name: yasio
 repo_url: https://github.com/yasio/yasio
 repo_name: yasio/yasio
 edit_uri: edit/dev/docs
-copyright: Copyright &copy; 2012-present HALX99.
+copyright: Copyright &copy; 2012-present Simdsoft Limited.
 theme:
   name: material
   language: zh
@@ -129,12 +129,12 @@ extra:
   alternate:
     # Switch to Chinese Simplfied
     - name: 简体中文
-      link: https://global.simdsoft.com/yasio/
+      link: https://learn.simdsoft.com/yasio/
       lang: zh
 
     # Switch to English
     - name: English
-      link: https://global.simdsoft.com/yasio/
+      link: https://learn.simdsoft.com/yasio/
       lang: en
   version:
     provider: mike
